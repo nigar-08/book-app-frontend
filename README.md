@@ -6,23 +6,28 @@ Welcome to the Bookstore App! This is a simple and stylish online bookstore wher
 
  What I've Used 🛠️
 
- Frontend 🌐
+ <span style="font-size: 48px;">Frontend 🌐</span>
+
 - React for building the user interface. It's super fast and flexible!
 - Vite for blazing fast development.
 - Tailwind CSS for creating a beautiful and responsive design with minimal effort.
 
-Backend 🔙
+<span style="font-size: 48px;">Backend 🔙</span>
+
 - Node.js & Express for handling requests and creating a RESTful API.
 - **MongoDB** for storing all the book, order, and user information securely.
 
-Authentication 🔐
+<span style="font-size: 48px;">Backend 🔙</span>
+
 - JWT (JSON Web Tokens)** for secure user authentication and authorization.
 
-Deployment 🚀
+<span style="font-size: 48px;">Deployment 🚀</span>
+
 - The frontend is hosted on **Vercel**.
 - The backend is hosted on **Render**.
 
-How It Looks 👀
+<span style="font-size: 48px;">How It Looks 👀</span>
+
 
 Here’s a sneak peek of what the app looks like:
 
@@ -32,7 +37,8 @@ Here’s a sneak peek of what the app looks like:
 ![Bookstore Screenshot 4](https://i.imgur.com/eiinoEt.png)
 
 
-## Setup Locally 💻
+<span style="font-size: 48px;">Setup Locally 💻</span>
+
 
 To run this project locally:
 
