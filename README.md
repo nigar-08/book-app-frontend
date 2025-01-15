@@ -1,4 +1,6 @@
-Bookstore App 📚
+<h1>Bookstore App 📚</h1>
+<span style="font-size: 36px;">Bookstore App 📚</span>
+
 
 Welcome to the Bookstore App! This is a simple and stylish online bookstore where users can browse books, add them to their cart, and place orders. Built using modern web technologies, this app is fully responsive and user-friendly.
 
