@@ -8,7 +8,7 @@ const cors = require('cors')
 
 app.use(express.json());
 app.use(cors({
-    origin:['http://localhost:5173','https://book-app-frontend-ecru.vercel.app'],
+    origin:['http://localhost:5173','https://bookstore-app-dun.vercel.app'],
     credentials:true
 }));
 const bookRoutes=require('./src/books/book.route')
