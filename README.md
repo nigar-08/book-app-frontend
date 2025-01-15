@@ -24,7 +24,7 @@ How It Looks 👀
 
 Here’s a sneak peek of what the app looks like:
 
-![Bookstore Screenshot](https://i.imgur.com/g5DDEfm.png)
+![Bookstore Screenshot](https://i.imgur.com/g5DDEfm.png,https://i.imgur.com/6h20Y3I.png,https://i.imgur.com/ajeZuo2.png,https://i.imgur.com/eiinoEt.png)
 
 ## Setup Locally 💻
 
